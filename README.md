@@ -2,13 +2,13 @@
 
 This is a fun word game where you get to create a hilarious and unpredictable story by filling in the blanks with random words.
 
-##How to Play:
+## How to Play:
 
 Run the program: This Python script can be run from your terminal using python madlibs_game.py (assuming the script is named madlibs_game.py).
 Fill in the blanks: The program will prompt you for several words with specific categories (e.g., adjective, noun, verb).
 Enjoy the story: Once you've entered all the words, the program will display a wacky story filled with your contributions!
 
-##Example Gameplay:
+## Example Gameplay:
 
 ```
 Welcome to Madlibs Game!!! 
@@ -27,6 +27,6 @@ In front of the bar a gigantic kangaroo said 'Hello!' to us.
 It was such a fantastic day.
 ```
 
-##Get Creative and Have Fun!
+## Get Creative and Have Fun!
 
 The more unique and unexpected words you choose, the funnier the story! Experiment with different combinations and see what crazy scenarios you can come up with.
