@@ -1,4 +1,4 @@
-#Welcome to the Madlibs Game!
+# Welcome to the Madlibs Game!
 
 This is a fun word game where you get to create a hilarious and unpredictable story by filling in the blanks with random words.
 
